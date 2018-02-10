@@ -25,6 +25,7 @@
     "fs": "0.0.1-security",
     "get-youtube-id": "^1.0.0",
     "node-opus": "^0.2.7",
+    "outdated": "^0.1.1",
     "package.json": "^2.0.1",
     "request": "^2.83.0",
     "ultron": "^1.1.1",
